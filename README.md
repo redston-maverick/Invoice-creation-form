@@ -1,5 +1,4 @@
 # bilte-form
-Form # bilte-form
 
 ## Project setup
 ```
