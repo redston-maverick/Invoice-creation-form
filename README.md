@@ -1,4 +1,4 @@
-# invoice-create-form
+# invoice-creation-form
 
 ## Project setup
 ```
